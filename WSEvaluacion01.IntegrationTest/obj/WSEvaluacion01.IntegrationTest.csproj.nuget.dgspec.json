@@ -1,0 +1,468 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.IntegrationTest\\WSEvaluacion01.IntegrationTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.API\\WSEvaluacion01.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.API\\WSEvaluacion01.API.csproj",
+        "projectName": "WSEvaluacion01.API",
+        "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.API\\WSEvaluacion01.API.csproj",
+        "packagesPath": "C:\\Users\\vsosapac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vsosapac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/BancoPichinchaEC/_packaging/BancoPichinchaEC/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Dominio\\WSEvaluacion01.Dominio.csproj": {
+                "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Dominio\\WSEvaluacion01.Dominio.csproj"
+              },
+              "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\WSEvaluacion01.Entidades.csproj": {
+                "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\WSEvaluacion01.Entidades.csproj"
+              },
+              "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Infraestructura\\WSEvaluacion01.Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Infraestructura\\WSEvaluacion01.Infraestructura.csproj"
+              },
+              "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Repositorio\\WSEvaluacion01.Repositorio.csproj": {
+                "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Repositorio\\WSEvaluacion01.Repositorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Dominio\\WSEvaluacion01.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Dominio\\WSEvaluacion01.Dominio.csproj",
+        "projectName": "WSEvaluacion01.Dominio",
+        "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Dominio\\WSEvaluacion01.Dominio.csproj",
+        "packagesPath": "C:\\Users\\vsosapac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vsosapac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/BancoPichinchaEC/_packaging/BancoPichinchaEC/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\WSEvaluacion01.Entidades.csproj": {
+                "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\WSEvaluacion01.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\WSEvaluacion01.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\WSEvaluacion01.Entidades.csproj",
+        "projectName": "WSEvaluacion01.Entidades",
+        "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\WSEvaluacion01.Entidades.csproj",
+        "packagesPath": "C:\\Users\\vsosapac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vsosapac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/BancoPichinchaEC/_packaging/BancoPichinchaEC/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Infraestructura\\WSEvaluacion01.Infraestructura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Infraestructura\\WSEvaluacion01.Infraestructura.csproj",
+        "projectName": "WSEvaluacion01.Infraestructura",
+        "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Infraestructura\\WSEvaluacion01.Infraestructura.csproj",
+        "packagesPath": "C:\\Users\\vsosapac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Infraestructura\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vsosapac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/BancoPichinchaEC/_packaging/BancoPichinchaEC/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Dominio\\WSEvaluacion01.Dominio.csproj": {
+                "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Dominio\\WSEvaluacion01.Dominio.csproj"
+              },
+              "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\WSEvaluacion01.Entidades.csproj": {
+                "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\WSEvaluacion01.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BP.API.Entidades": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.IntegrationTest\\WSEvaluacion01.IntegrationTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.IntegrationTest\\WSEvaluacion01.IntegrationTest.csproj",
+        "projectName": "WSEvaluacion01.IntegrationTest",
+        "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.IntegrationTest\\WSEvaluacion01.IntegrationTest.csproj",
+        "packagesPath": "C:\\Users\\vsosapac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.IntegrationTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vsosapac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/BancoPichinchaEC/_packaging/BancoPichinchaEC/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.API\\WSEvaluacion01.API.csproj": {
+                "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.API\\WSEvaluacion01.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Alba": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            },
+            "GenFu": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Repositorio\\WSEvaluacion01.Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Repositorio\\WSEvaluacion01.Repositorio.csproj",
+        "projectName": "WSEvaluacion01.Repositorio",
+        "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Repositorio\\WSEvaluacion01.Repositorio.csproj",
+        "packagesPath": "C:\\Users\\vsosapac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Repositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vsosapac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/BancoPichinchaEC/_packaging/BancoPichinchaEC/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Dominio\\WSEvaluacion01.Dominio.csproj": {
+                "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Dominio\\WSEvaluacion01.Dominio.csproj"
+              },
+              "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\WSEvaluacion01.Entidades.csproj": {
+                "projectPath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Entidades\\WSEvaluacion01.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

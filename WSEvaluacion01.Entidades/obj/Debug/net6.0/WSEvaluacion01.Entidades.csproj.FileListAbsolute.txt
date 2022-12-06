@@ -1,0 +1,12 @@
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\bin\Debug\net6.0\WSEvaluacion01.Entidades.deps.json
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\bin\Debug\net6.0\WSEvaluacion01.Entidades.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\bin\Debug\net6.0\WSEvaluacion01.Entidades.pdb
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\obj\Debug\net6.0\WSEvaluacion01.Entidades.csproj.AssemblyReference.cache
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\obj\Debug\net6.0\WSEvaluacion01.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\obj\Debug\net6.0\WSEvaluacion01.Entidades.AssemblyInfoInputs.cache
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\obj\Debug\net6.0\WSEvaluacion01.Entidades.AssemblyInfo.cs
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\obj\Debug\net6.0\WSEvaluacion01.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\obj\Debug\net6.0\WSEvaluacion01.Entidades.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\obj\Debug\net6.0\refint\WSEvaluacion01.Entidades.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\obj\Debug\net6.0\WSEvaluacion01.Entidades.pdb
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Entidades\obj\Debug\net6.0\ref\WSEvaluacion01.Entidades.dll

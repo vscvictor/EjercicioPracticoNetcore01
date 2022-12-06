@@ -1,0 +1,7 @@
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion.Api.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion.Api.Test\obj\Debug\net6.0\WSEvaluacion.Api.Test.csproj.AssemblyReference.cache
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion.Api.Test\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion.Api.Test\obj\Debug\net6.0\WSEvaluacion.Api.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion.Api.Test\obj\Debug\net6.0\WSEvaluacion.Api.Test.AssemblyInfoInputs.cache
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion.Api.Test\obj\Debug\net6.0\WSEvaluacion.Api.Test.AssemblyInfo.cs
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion.Api.Test\obj\Debug\net6.0\WSEvaluacion.Api.Test.csproj.CoreCompileInputs.cache

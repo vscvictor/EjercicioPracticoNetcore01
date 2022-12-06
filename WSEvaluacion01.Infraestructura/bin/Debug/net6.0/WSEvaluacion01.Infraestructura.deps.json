@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WSEvaluacion01.Infraestructura/1.0.0": {
+        "dependencies": {
+          "BP.API.Entidades": "1.0.2",
+          "WSEvaluacion01.Dominio": "1.0.0",
+          "WSEvaluacion01.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "WSEvaluacion01.Infraestructura.dll": {}
+        }
+      },
+      "BP.API.Entidades/1.0.2": {
+        "runtime": {
+          "lib/net6.0/BP.API.Entidades.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      },
+      "WSEvaluacion01.Dominio/1.0.0": {
+        "dependencies": {
+          "WSEvaluacion01.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "WSEvaluacion01.Dominio.dll": {}
+        }
+      },
+      "WSEvaluacion01.Entidades/1.0.0": {
+        "runtime": {
+          "WSEvaluacion01.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WSEvaluacion01.Infraestructura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BP.API.Entidades/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FDP4DHBj8c2OjzRnTfoQdxJmdlJer67LwErJbAMLlLEM2zBRohZXySWi2iqwW52NY9lVhgAIUrBcJOUCry+10Q==",
+      "path": "bp.api.entidades/1.0.2",
+      "hashPath": "bp.api.entidades.1.0.2.nupkg.sha512"
+    },
+    "WSEvaluacion01.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WSEvaluacion01.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

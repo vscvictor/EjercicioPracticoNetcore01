@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WSEvaluacion01.Dominio\WSEvaluacion01.Dominio.csproj" />
+    <ProjectReference Include="..\WSEvaluacion01.Entidades\WSEvaluacion01.Entidades.csproj" />
+    <ProjectReference Include="..\WSEvaluacion01.Infraestructura\WSEvaluacion01.Infraestructura.csproj" />
+    <ProjectReference Include="..\WSEvaluacion01.Repositorio\WSEvaluacion01.Repositorio.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<InternalsVisibleTo Include="$(AssemblyName).IntegrationTest" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\bin\Debug\net6.0\WSEvaluacion01.Dominio.deps.json
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\bin\Debug\net6.0\WSEvaluacion01.Dominio.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\bin\Debug\net6.0\WSEvaluacion01.Dominio.pdb
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\obj\Debug\net6.0\WSEvaluacion01.Dominio.csproj.AssemblyReference.cache
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\obj\Debug\net6.0\WSEvaluacion01.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\obj\Debug\net6.0\WSEvaluacion01.Dominio.AssemblyInfoInputs.cache
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\obj\Debug\net6.0\WSEvaluacion01.Dominio.AssemblyInfo.cs
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\obj\Debug\net6.0\WSEvaluacion01.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\obj\Debug\net6.0\WSEvaluacion01.Dominio.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\obj\Debug\net6.0\refint\WSEvaluacion01.Dominio.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\obj\Debug\net6.0\WSEvaluacion01.Dominio.pdb
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\obj\Debug\net6.0\ref\WSEvaluacion01.Dominio.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\bin\Debug\net6.0\WSEvaluacion01.Entidades.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\bin\Debug\net6.0\WSEvaluacion01.Entidades.pdb
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Dominio\obj\Debug\net6.0\WSEvaluacion01.Dominio.csproj.CopyComplete

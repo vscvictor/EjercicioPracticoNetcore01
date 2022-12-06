@@ -1,0 +1,17 @@
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\bin\Debug\net6.0\WSEvaluacion01.Infraestructura.deps.json
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\bin\Debug\net6.0\WSEvaluacion01.Infraestructura.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\bin\Debug\net6.0\WSEvaluacion01.Infraestructura.pdb
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\obj\Debug\net6.0\WSEvaluacion01.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\obj\Debug\net6.0\WSEvaluacion01.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\obj\Debug\net6.0\WSEvaluacion01.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\obj\Debug\net6.0\WSEvaluacion01.Infraestructura.AssemblyInfo.cs
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\obj\Debug\net6.0\WSEvaluacion01.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\obj\Debug\net6.0\WSEvaluacion01.Infraestructura.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\obj\Debug\net6.0\refint\WSEvaluacion01.Infraestructura.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\obj\Debug\net6.0\WSEvaluacion01.Infraestructura.pdb
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\obj\Debug\net6.0\ref\WSEvaluacion01.Infraestructura.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\bin\Debug\net6.0\WSEvaluacion01.Dominio.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\bin\Debug\net6.0\WSEvaluacion01.Entidades.dll
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\bin\Debug\net6.0\WSEvaluacion01.Dominio.pdb
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\bin\Debug\net6.0\WSEvaluacion01.Entidades.pdb
+C:\Users\vsosapac\source\repos\WSEvaluacion01\WSEvaluacion01.Infraestructura\obj\Debug\net6.0\WSEvaluacion01.Infraestructura.csproj.CopyComplete

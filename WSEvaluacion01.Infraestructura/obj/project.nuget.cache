@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gHl/7hWxecYIp2gwfwtNLa5tCpqldD4oeRFGej7rLmx1JjC2XJOnc104XKNiEbmOpxENpo6WW9wTXRxso1IFRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vsosapac\\source\\repos\\WSEvaluacion01\\WSEvaluacion01.Infraestructura\\WSEvaluacion01.Infraestructura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vsosapac\\.nuget\\packages\\bp.api.entidades\\1.0.2\\bp.api.entidades.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
